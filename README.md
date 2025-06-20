@@ -1,4 +1,5 @@
 # autohotkey
+'''
 #NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
 #Persistent
 SetTimer, kaw_func, 1000
@@ -29,3 +30,4 @@ Kind Regards,
 
 Javi Puig
 )
+'''
